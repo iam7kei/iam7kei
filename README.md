@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there, my name is <Dyniel/> <img src="https://github.com/iam7kei/iam7kei/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />
+I'm a front-end & mobile (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
+<br />
 <!--
 **iam7kei/iam7kei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
