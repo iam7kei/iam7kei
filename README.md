@@ -1,5 +1,5 @@
-## Hi there, my name is <Dyniel/> <img src="images/hi.gif" width="28px" height="28px" alt="waving hand" />
-I'm a full-stack engineer who loves transforming designs into real-world appl! 👩🏼‍💻
+## Hi there, my name is <Dyniel /> <img src="images/hi.gif" width="28px" height="28px" alt="waving hand" />
+I'm a full-stack engineer who loves transforming designs into real-world app! 👩🏼‍💻
 <br />
 
 ```javascript
