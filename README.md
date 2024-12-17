@@ -1,6 +1,23 @@
 ## Hi there, my name is <Dyniel/> <img src="images/hi.gif" width="28px" height="28px" alt="waving hand" />
-I'm a front-end & mobile (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
+I'm a full-stack engineer who loves transforming designs into real-world appl! 👩🏼‍💻
 <br />
+
+```javascript
+const Dyniel = {
+  pronouns: "He/His",
+  jobTitle: "Fullstack Developer",
+  education: "University of Negros Occidental - Recoletos",
+  skills: {
+    frontend: ["JavaScript", "TypeScript" "React"m "Webflow",],
+    backend: ["Node.js", "PostgreSQL", "MySQL", "MongoDB", "tRPC", "Prisma", "Hono", "PHP", "REST API"],
+    mobile: ["React Native", "Swift"],
+    styles: ["Material UI", "Tailwind CSS", "shadcn/ui"]
+  },
+  favorites: ["React", "REST", "Tailwind CSS"], 
+  hobbies: ["videogames", "traveling", "coding", "anime"],
+  funFact: "I used to work part-time teaching students English!"
+};
+```
 <!--
 **iam7kei/iam7kei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
