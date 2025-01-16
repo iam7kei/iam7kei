@@ -42,6 +42,7 @@ const Dyniel = {
 
 ## 🚀 Current Projects
 Portfolio (WIP 🛠) [dcataluna.vercel.app](https://dcataluna.vercel.app)
+Finance App (WIP 🛠)
 <br />
 <!--
 **iam7kei/iam7kei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
