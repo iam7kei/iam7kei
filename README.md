@@ -8,7 +8,7 @@ const Dyniel = {
   jobTitle: "Fullstack Developer",
   education: "University of Negros Occidental - Recoletos",
   skills: {
-    frontend: ["JavaScript", "TypeScript" "React", "Webflow",],
+    frontend: ["JavaScript", "TypeScript" "React", "React Native" ,"Webflow"],
     backend: ["Node.js", "PostgreSQL", "MySQL", "MongoDB", "tRPC", "Prisma", "Hono", "PHP", "REST API"],
     mobile: ["React Native", "Swift"],
     styles: ["Material UI", "Tailwind CSS", "shadcn/ui"]
