@@ -14,7 +14,7 @@ const Dyniel = {
     styles: ["Material UI", "Tailwind CSS", "shadcn/ui"]
   },
   favorites: ["React", "REST", "Tailwind CSS"], 
-  hobbies: ["videogames", "traveling", "coding", "anime"],
+  hobbies: ["videogames", "coding", "anime"],
   funFact: "I used to work part-time teaching students English!"
 };
 ```
