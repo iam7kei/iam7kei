@@ -36,6 +36,7 @@ const Dyniel = {
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Blender](https://img.shields.io/badge/-Blender-%23F5792A?style=flat-square&logo=blender&logoColor=%23ffffff)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-%2326C9FF?style=flat-square&logo=adobe-photoshop&logoColor=%23ffffff)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 
 ## 🎨 Learning 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
