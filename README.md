@@ -39,6 +39,7 @@ const Dyniel = {
 
 ## 🎨 Learning 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Flask](https://img.shields.io/badge/flask?logo=flask&logoColor=fff)](#)
 
 ## 🚀 Current Projects
 - Portfolio (WIP 🛠) [dcataluna.vercel.app](https://dcataluna.vercel.app)
